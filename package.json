@@ -1,6 +1,6 @@
 {
     "author": "Brendan Dayley",
-    "name": "censorify28",
+    "name": "censorifyj0",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
@@ -10,7 +10,7 @@
     },
     "repository": {
        "type": "git",
-       "url": "https://github.com/Vamcy28/censorj0.git"
+       "url": "https://github.com/Vamcy28/censorj028"
  },
  "keywords": [   
     "censor",
